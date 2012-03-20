@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   #
   # s.resource = "icon.png"
   # s.resources = "Resources/*.png"
-  s.resource = 'ObjectiveFlickr.bridgesupport
+  s.resource = 'ObjectiveFlickr.bridgesupport'
 
   # A list of paths to remove after installing the Pod without the
   # `--no-clean' option. These can be examples, docs, and any other type
